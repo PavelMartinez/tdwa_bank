@@ -1,0 +1,9 @@
+export { Home } from "./Home";
+export { FullManager } from "./FullManager";
+export { FullClient } from "./FullClient";
+export { FullProfile } from './FullProfile'
+export { AddManager } from "./AddManager";
+export { Registration } from "./Registration";
+export { Login } from "./Login";
+export { AddClient } from './AddClient'
+export { AddProfile } from './AddProfile'
